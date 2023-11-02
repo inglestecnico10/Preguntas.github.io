@@ -101,7 +101,7 @@
             </div>
         </div>
 
-        <div class "question">
+        <div class="question">
             <p>Pregunta 4: ¿Qué tipo de memoria se utiliza para almacenar datos y programas temporalmente mientras la computadora está encendida?</p>
             <div class="options">
                 <label><input type="radio" name="q4" value="a"> a. Disco duro</label>
