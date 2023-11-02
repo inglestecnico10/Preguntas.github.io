@@ -1,5 +1,5 @@
 <html>
-<head> 
+<head>
     <style>
     body {
         font-family: Arial, sans-serif;
@@ -68,14 +68,14 @@
     .incorrect {
         color: red;
     }
-</style>
+    </style>
 </head>
 <body>
     <h1>Componentes de PC</h1>
 
     <div class="container">
         <div class="question">
-            <p>Pregunta 1: ¿Qué componente es responsable del almacenamiento a largo plazo de datos en una computadora?</p>
+            <p>Pregunta 1: ¿Qué componente es responsable del almacenamiento de datos a largo plazo en una computadora?</p>
             <div class="options">
                 <label><input type="radio" name="q1" value="a"> a. CPU</label>
                 <label><input type="radio" name="q1" value="b"> b. RAM</label>
@@ -92,7 +92,7 @@
             </div>
         </div>
 
-        <div class "question">
+        <div class="question">
             <p>Pregunta 3: ¿Qué dispositivo es esencial para la salida de audio en una computadora?</p>
             <div class="options">
                 <label><input type="radio" name="q3" value="a"> a. Monitor</label>
@@ -101,7 +101,7 @@
             </div>
         </div>
 
-        <div class="question">
+        <div class "question">
             <p>Pregunta 4: ¿Qué tipo de memoria se utiliza para almacenar datos y programas temporalmente mientras la computadora está encendida?</p>
             <div class="options">
                 <label><input type="radio" name="q4" value="a"> a. Disco duro</label>
@@ -138,7 +138,7 @@
         </div>
 
         <div class="question">
-            <p>Pregunta 8: ¿Qué dispositivo se utiliza para introducir datos en una computadora al moverlo sobre una superficie plana?</p>
+            <p>Pregunta 8: ¿Qué dispositivo se utiliza para introducir datos en una computadora moviéndolo sobre una superficie plana?</p>
             <div class="options">
                 <label><input type="radio" name="q8" value="a"> a. Monitor</label>
                 <label><input type="radio" name="q8" value="b"> b. Ratón</label>
@@ -147,7 +147,7 @@
         </div>
 
         <div class="question">
-            <p>Pregunta 9: ¿Cuál de los siguientes componentes suele ser una unidad de estado sólido (SSD) o un disco duro (HDD)?</p>
+            <p>Pregunta 9: ¿Cuál de los siguientes componentes suele ser una unidad de estado sólido (SSD) o una unidad de disco duro (HDD)?</p>
             <div class="options">
                 <label><input type="radio" name="q9" value="a"> a. CPU</label>
                 <label><input type="radio" name="q9" value="b"> b. RAM</label>
